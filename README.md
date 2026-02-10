@@ -1,6 +1,14 @@
-# Matrix Book Fuente
+# Matrix-Book fuente
+### v1.0
+Fuente lista para usar estilo Yu-Gi-Oh!
 
-Fuente Matrix Book del juego de cartas coleccionable Yu-Gi-Oh!, listo para ser usado
-en cualquier proyecto.
+## Modo de uso
 
-Solo copia el enlace **raw** del archivo **Matrix-Book.css** y puedes usarlo como quieras
+- Importa en tu código esta simple línea de código:
+
+`https://cdn.jsdelivr.net/gh/YamiVales/Matrix-Book@main/css/Matrix-Book.css`
+Este css esta listo para usar
+
+- Si necesitas solo el archivo de la fuente, usa este:
+
+`https://cdn.jsdelivr.net/gh/YamiVales/Matrix-Book@main/font/Matrix-Book.woff2`
